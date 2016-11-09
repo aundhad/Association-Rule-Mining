@@ -1,6 +1,6 @@
 Market Basket Analysis
 
-A System to find all the frequent purchased products by using Apriori Algorithm. Also association rules for frequent items.
+A System to find all the frequent purchased products by using Apriori Algorithm. Also association rules for frequent items. 
 
 SPECIFICATIONS: 
 	Specifications will be provided in a “​ config.csv​ ” file, located in the ​ same folder​  as the source 

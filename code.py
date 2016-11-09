@@ -5,6 +5,7 @@ from itertools import chain, combinations
 configFile={}
 inputDataDict={}				#dictionary for evry otem ocurring in which transaction
 generalDict={}
+
 #totalFrequentItemSet=0
 
 def readFromConfigFile(fname):
